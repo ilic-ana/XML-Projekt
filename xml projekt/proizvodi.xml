@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proizvodi>
+  <biljka>
+    <slika>images/monstera1.jpg</slika>
+    <naziv>Monstera</naziv>
+    <opis>Monstera je popularna biljka s velikim zelenim listovima i izraženim prorezima.</opis>
+    <cijena>29.99 Kn</cijena>
+  </biljka>
+  <biljka>
+    <slika>images/ficus.jpg</slika>
+    <naziv>Ficus</naziv>
+    <opis>Ficus je drvenasta biljka s gustom krošnjom i sjajnim tamnozelenim lišćem.</opis>
+    <cijena>24.50 Kn</cijena>
+  </biljka>
+  <biljka>
+    <slika>images/zlatnipuzavac.jpg</slika>
+    <naziv>Zlatni puzavac</naziv>
+    <opis>Biljka s atraktivnim zlatnožutim lišćem koja lijepo puzi po podlozi.</opis>
+    <cijena>17.99 Kn</cijena>
+  </biljka>
+  <biljka>
+    <slika>images/orhideja.jpg</slika>
+    <naziv>Orhideja</naziv>
+    <opis>Orhideja je egzotično cvijeće poznato po svojoj ljepoti i gracioznosti.</opis>
+    <cijena>25.50 Kn</cijena>
+  </biljka>
+  <biljka>
+    <slika>images/palma.jpg</slika>
+    <naziv>Parlour palma</naziv>
+    <opis>Parlour palma je sobna biljka s pernatim lišćem koja dodaje eleganciju prostoru.</opis>
+    <cijena>19.99 Kn</cijena>
+  </biljka>
+  <biljka>
+    <slika>images/zamia.jpg</slika>
+    <naziv>Zamia culcus</naziv>
+    <opis>Zamia culcus je sukulenta s gustom krošnjom i izdržljivim lišćem.</opis>
+    <cijena>12.75 Kn</cijena>
+  </biljka>
+  <biljka>
+    <slika>images/pauk.jpg</slika>
+    <naziv>Pauk biljka</naziv>
+    <opis>Popularna sobna biljka s dugim, visećim izdancima i tankim zelenim listovima.</opis>
+    <cijena>9.99 Kn</cijena>
+  </biljka>
+  <biljka>
+    <slika>images/bambus-palma.jpg</slika>
+    <naziv>Bambus palma</naziv>
+    <opis>Bambus palma je elegantna biljka s vitkim stabljikama i izduženim zelenim lišćem.</opis>
+    <cijena>16.50 Kn</cijena>
+  </biljka>
+  <biljka>
+    <slika>images/dracena.jpg</slika>
+    <naziv>Dracena</naziv>
+    <opis>Dracena je dekorativna biljka s uspravnim stabljikama i šarenim lišćem.</opis>
+    <cijena>14.99 Kn</cijena>
+  </biljka>
+</proizvodi>
